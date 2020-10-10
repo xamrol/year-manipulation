@@ -3,4 +3,18 @@
   <groupId>com.mgl7460.yearmanipulation</groupId>
   <artifactId>year-manipulation-maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+   	<maven.compiler.source>11</maven.compiler.source>
+	<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <dependency>
+		<groupId>org.junit.jupiter</groupId>
+		<artifactId>junit-jupiter</artifactId>
+		<version>5.5.1</version>
+		<scope>test</scope>
+    </dependency>
+  </dependencies>
 </project>
