@@ -11,16 +11,19 @@ public class AppTest
 	// Declaration
 	App yearobject;
 	
+	// Initiation
 	@Before
 	public void setUp() throws Exception {
 		yearobject = new App();
 	}
-
+	
+	// Closure
 	@After
 	public void tearDown() throws Exception {
 		yearobject = null;
 	}
 	
+	// Tests
 	@Test
 	public void testYearLength() {
 		assertTrue(Integer.toString(2020).length() == 4);
