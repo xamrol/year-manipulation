@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mgl7460.yearmanipulation.AppTest" time="0.292" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mgl7460.yearmanipulation.AppTest" time="0.077" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\TOSHIB~1\AppData\Local\Temp\surefire16391639114486870697\surefirebooter15334750816362366007.jar C:\Users\Toshiba C55\AppData\Local\Temp\surefire16391639114486870697 2020-10-10T20-52-43_820-jvmRun1 surefire2824417098900176731tmp surefire_012136286719268045964tmp"/>
+    <property name="sun.java.command" value="C:\Users\TOSHIB~1\AppData\Local\Temp\surefire9698898770851055183\surefirebooter7267952548539331482.jar C:\Users\Toshiba C55\AppData\Local\Temp\surefire9698898770851055183 2020-10-11T12-50-34_185-jvmRun1 surefire15875475825549028876tmp surefire_015374308259803502928tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Toshiba C55\eclipse-workspace\year-manipulation-maven\target\test-classes;C:\Users\Toshiba C55\eclipse-workspace\year-manipulation-maven\target\classes;C:\Users\Toshiba C55\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Toshiba C55\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\TOSHIB~1\AppData\Local\Temp\surefire16391639114486870697\surefirebooter15334750816362366007.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\TOSHIB~1\AppData\Local\Temp\surefire9698898770851055183\surefirebooter7267952548539331482.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.8+10"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testGetNbYearsBetweenTwoValues" classname="com.mgl7460.yearmanipulation.AppTest" time="0.111"/>
+  <testcase name="testGetNbYearsBetweenTwoValues" classname="com.mgl7460.yearmanipulation.AppTest" time="0.007"/>
   <testcase name="testYearLength" classname="com.mgl7460.yearmanipulation.AppTest" time="0"/>
   <testcase name="testThisYearLeapStatus" classname="com.mgl7460.yearmanipulation.AppTest" time="0"/>
   <testcase name="testGetThisYearCentury" classname="com.mgl7460.yearmanipulation.AppTest" time="0.002"/>
