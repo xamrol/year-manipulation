@@ -17,6 +17,14 @@
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
   </properties>
+  <!--
+  <scm>
+     <connection>scm:git:git@github.com/xamrol/year-manipulation.git</connection>
+     <developerConnection>scm:git:git@github.com/xamrol/year-manipulation.git</developerConnection>
+     <url>https://github.com/xamrol/year-manipulation/tree/${project.scm.tag}</url>
+     <tag>fifthcommit</tag>
+  </scm>
+  -->
 
   <dependencies>
     <dependency>
